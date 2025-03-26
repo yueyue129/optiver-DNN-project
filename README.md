@@ -69,8 +69,5 @@ optiver-dnn-project/
 - Kaggle: [Optiver Realized Volatility Prediction](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction)
 - BIOS 626: Machine Learning for Health Sciences
 
----
 
-> Author: YOUR_NAME  
-> Version: v1.0
 
